@@ -44,7 +44,7 @@ I am a third-year computer science student at Bar-Ilan University, passionate ab
 **The Problem:** Automating high-quality social media research and generation.
 **The Outcome:** An end-to-end pipeline that scrapes competitor data and generates platform-ready content via LLMs.
 - **Key Tech:** Parallel scraping via Apify, Claude API for context-aware generation.
-- [private for now - published later]
+- [📂 View Repository](https://github.com/RoyMeiri/Instagram-content-agent.git)
 
 #### 📱 [Practical UI] Expense Manager Pro
 **The Problem:** Personal finance apps often lack clear, low-latency visual data.
