@@ -6,16 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/roy-meiri">
+  <a href="https://www.linkedin.com/in/roy-meiri">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="royimeiri144@gmail.com">
+  <a href="mailto:royimeiri144@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
 
 I am a third-year computer science student at Bar-Ilan University, passionate about AI, Blockchain, cloud tech, problem-solving, and building innovative software solutions. I am always eager to learn and collaborate on exciting projects.
 
@@ -33,33 +32,69 @@ I am a third-year computer science student at Bar-Ilan University, passionate ab
 
 ### 🚀 Featured Projects (Portfolio)
  
-#### 🏆 [Flagship] Waze-like Traffic Simulation
+#### 🏆 Waze-like Traffic Simulation
+
+<div align="center">
+
+| Select Source | Select Destination |
+|:---:|:---:|
+| ![Pick source](https://raw.githubusercontent.com/elir0n/waze/main/screenshots/pick_source.png) | ![Pick destination](https://raw.githubusercontent.com/elir0n/waze/main/screenshots/pick_destination.png) |
+
+| ETA Confirmation | Live Navigation |
+|:---:|:---:|
+| ![ETA dialog](https://raw.githubusercontent.com/elir0n/waze/main/screenshots/eta_dialog.png) | ![Navigation panel](https://raw.githubusercontent.com/elir0n/waze/main/screenshots/nav_panel.png) |
+
+</div>
+
 **The Problem:** Real-time routing for high-density traffic.
 **The Outcome:** A distributed system handling **500+ concurrent clients** with 393 ops/sec.
 - **Key Decision:** Implemented A* with EMA-smoothed weights to prevent "ping-pong" routing issues.
 - **Tech:** C, Python, Docker, Multi-threading, Leaflet.js
 - [📂 View Repository](https://github.com/elir0n/waze.git)
 
-#### 🤖 [Business Logic] AI Content Agent
+#### 🤖 AI Content Agent
+
+<div align="center">
+
+| Step 1 — Describe your topics | Step 2 — Type in Hebrew, English, or any language |
+|:---:|:---:|
+| ![Topic input UI](https://raw.githubusercontent.com/RoyMeiri/Instagram-content-agent/main/screenshot/127.0.0.1_8765_.png) | ![Hebrew topic input](https://raw.githubusercontent.com/RoyMeiri/Instagram-content-agent/main/screenshot/127.0.0.1_8765_%20(1).png) |
+
+| Step 3 — Hashtags generating (55%) | Step 4 — Done, open in Google Docs |
+|:---:|:---:|
+| ![Hashtag generation in progress](https://raw.githubusercontent.com/RoyMeiri/Instagram-content-agent/main/screenshot/127.0.0.1_8765_%20(2).png) | ![Pipeline complete](https://raw.githubusercontent.com/RoyMeiri/Instagram-content-agent/main/screenshot/127.0.0.1_8765_%20(3).png) |
+
+</div>
+
+---
+
 **The Problem:** Automating high-quality social media research and generation.
 **The Outcome:** An end-to-end pipeline that scrapes competitor data and generates platform-ready content via LLMs.
 - **Key Tech:** Parallel scraping via Apify, Claude API for context-aware generation.
 - [📂 View Repository](https://github.com/RoyMeiri/Instagram-content-agent.git)
 
-#### 📱 [Practical UI] Expense Manager Pro
+#### 📱 Expense Manager Pro
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/RoyMeiri/Money-Manager/main/img/1.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/RoyMeiri/Money-Manager/main/img/7.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/RoyMeiri/Money-Manager/main/img/2.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/RoyMeiri/Money-Manager/main/img/6.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center">Transactions</td>
+    <td align="center">Stats</td>
+    <td align="center">Budget</td>
+    <td align="center">Transaction Form</td>
+  </tr>
+</table>
+
 **The Problem:** Personal finance apps often lack clear, low-latency visual data.
 **The Outcome:** A mobile-first app featuring **custom-built SVG visualization** and a robust Postgres/Supabase backend.
 - **Key Tech:** React Native, Expo, TypeScript, Supabase.
 - [📂 View Repository](https://github.com/RoyMeiri/Money-Manager.git)
 
----
-### 🛡 Military Service
-
-- Former combat soldier in **PALSAR 7**.
-- Served as a combat fighter.
-- Performed operational activities in various regions
-
----
 
 ### 📊 GitHub Activity
 
